@@ -1,0 +1,25 @@
+<?php 
+
+class ders {
+
+function __construct(){ //  BU CLASS ÇAĞRILDIĞI ZAMAN İLK OLARAK ÇALIŞTIRILICAK KOMUT DEMEK 
+
+
+	echo"merhaba <br />";
+}
+
+function __destruct(){ // BU CLASS ÇAĞRILDIĞI ZAMAN ÇAĞRILACAK SON KOMUT DEMEK 
+
+
+
+	echo"dünya <br />";
+}
+
+}
+
+$a= new ders(); // BURADA SADECE CLASS I ÇAĞIRMAMIZA RAHMEN YULARIDAKİ FONKSİYON ÇALIŞTI ÇÜNKÜ ONUN İÇİNDE Kİ METHOTDLARIN GÖREVİ BU CLASS ÇAĞROLIĞINDA..
+
+
+// ÖRNEĞİN CONSTRUCT İLE İLK OLARAK VERİ TABANI BAĞLANTISINI YAPABİLİRİZ. DERSTRUCT İLE DA BAĞLANTII SONLANDIRIRIZ.
+
+ ?>

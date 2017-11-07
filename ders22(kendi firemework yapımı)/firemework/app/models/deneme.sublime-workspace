@@ -1,0 +1,503 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"spl_a",
+				"spl_autoload_register"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"ogretmen",
+				"ogretmen_id"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"ogret",
+				"ogretmen_adi"
+			],
+			[
+				"ogren",
+				"ogrenci_adi"
+			],
+			[
+				"yonet",
+				"yonetici_id"
+			],
+			[
+				"yone",
+				"yonetici_id"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"ogrenc",
+				"ogrenci_id"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"ogrenci_",
+				"ogrenci_tckimlik"
+			],
+			[
+				"ogrenci",
+				"ogrenci_numara"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"og",
+				"ogretmenno"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ANIL/Desktop/oop/ders20(callback-2)/router.php",
+		"/C/Users/ANIL/Desktop/oop/ders19(callback-1)/router.php",
+		"/C/Users/ANIL/Desktop/oop/ders22(kendi firemework yapımı)/firemework/system/router/web.php",
+		"/C/Users/ANIL/Desktop/oop/ders21(callback-3)/router.php",
+		"/C/Users/ANIL/Desktop/oop/ders20(callback-2)/index.php",
+		"/C/Users/ANIL/Desktop/oop/ders22(kendi firemework yapımı)/firemework/system/router/router.php",
+		"/C/Users/ANIL/Desktop/oop/ders21(callback-3)/index.php",
+		"/C/Users/ANIL/Desktop/oop/ders22(kendi firemework yapımı)/firemework/index.php",
+		"/C/Users/ANIL/Desktop/okul yönetim sistemi/index.php",
+		"/C/Users/ANIL/Desktop/okul yönetim sistemi/mesajgoster.php",
+		"/C/Users/ANIL/Desktop/okul yönetim sistemi/mesajgonder.php",
+		"/C/Users/ANIL/Desktop/oop/ders18(mvc)/router/app/controllers/maincontrollers.php",
+		"/C/Users/ANIL/Desktop/oop/ders22(kendi firemework yapımı)/firemework/app/controllers/maincontroller.php",
+		"/C/Users/ANIL/Desktop/oop/ders18(mvc)/router/app/models/user.php",
+		"/C/Users/ANIL/Desktop/oop/ders18(mvc)/router/.htaccess",
+		"/C/Users/ANIL/Desktop/oop/ders18(mvc)/router/app/controllers/mycontrol.php",
+		"/C/Users/ANIL/Desktop/oop/ders18(mvc)/router/router/router.php",
+		"/C/Users/ANIL/Desktop/oop/ders18(mvc)/router/router/web.php",
+		"/C/Users/ANIL/Desktop/oop/fremework2/system/database/database.php",
+		"/C/Users/ANIL/Desktop/oop/ders22(kendi firemework yapımı)/firemework/app/controllers/mycontrol.php",
+		"/C/Users/ANIL/Desktop/oop/mysql crud işlemleri/database.php",
+		"/C/Users/ANIL/Desktop/oop/veritabanı/vtislemleri.php",
+		"/C/Users/ANIL/Desktop/oop/veritabanı/vtbaglan.php",
+		"/C/Users/ANIL/Desktop/oop/ders22(kendi firemework yapımı)/firemework/system/autoload.php",
+		"/C/Users/ANIL/Desktop/oop/ders18(mvc)/router/index.php",
+		"/C/Users/ANIL/Desktop/okul yönetim sistemi/vtbaglan.php",
+		"/C/Users/ANIL/Desktop/oop/mysql crud işlemleri.php",
+		"/C/Users/ANIL/Desktop/oop/mysql crud işlemleri/vtbaglan.php",
+		"/C/xampp/htdocs/database.php",
+		"/C/Users/ANIL/Desktop/okul yönetim sistemi/ogrenciekle.php",
+		"/C/xampp/htdocs/vtbaglan.php",
+		"/C/Users/ANIL/Desktop/PDOquery/select.php",
+		"/C/Users/ANIL/Desktop/oop/array kullanımı.php",
+		"/C/Users/ANIL/Desktop/oop/ders24(composer)/application/controllers/control.php",
+		"/C/Users/ANIL/Desktop/oop/ders-23(singletion).php",
+		"/C/Users/ANIL/Desktop/oop/ders-23(intstance).php",
+		"/C/Users/ANIL/Desktop/oop/ders24(composer)/vendor/composer/autoload_psr4.php",
+		"/C/xampp/htdocs/mesaj.php",
+		"/C/Users/ANIL/Desktop/index.php",
+		"/C/Users/ANIL/Desktop/oop/ders11(interface).php",
+		"/C/Users/ANIL/Desktop/oop/ders18(mvc)/router/system/autoload.php",
+		"/C/Users/ANIL/Desktop/oop/index65654.php",
+		"/C/Users/ANIL/Desktop/oop/ders13(namespace-use kullanımı)/cek.php",
+		"/C/Users/ANIL/Desktop/oop/ders13(namespace-use kullanımı)/deneme.php",
+		"/C/Users/ANIL/Desktop/oop/ders13(namespace-use kullanımı)/index.php",
+		"/C/Users/ANIL/Desktop/oop/veritabanı/index.php",
+		"/C/Users/ANIL/Desktop/router/index.php",
+		"/C/Users/ANIL/Desktop/oop/ders17(türdayatması).php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/router/.access.php",
+		"/C/xampp/htdocs/router/index.php",
+		"/C/xampp/htdocs/router/.htaccess",
+		"/C/xampp/htdocs/router/zdf.htaccess",
+		"/C/Users/ANIL/Desktop/.htaccess",
+		"/C/xampp/htdocs/vtislemleri.php",
+		"/C/xampp/htdocs/config.php",
+		"/C/Users/ANIL/Desktop/oop/der15(spl_autoload_register)/index.php",
+		"/C/Users/ANIL/Desktop/oop/der15(spl_autoload_register)/iki.php",
+		"/C/Users/ANIL/Desktop/oop/der15(spl_autoload_register)/bir.php",
+		"/C/Users/ANIL/Desktop/oop/ders14(zincirleme).php",
+		"/C/Users/ANIL/Desktop/oop/ders12(abstract).php",
+		"/C/Users/ANIL/Desktop/oop/ders10(trait,self,parent).php",
+		"/C/Users/ANIL/Desktop/oop/ders8(static1).php",
+		"/C/Users/ANIL/Desktop/oop/ders9(static2).php",
+		"/C/Users/ANIL/Desktop/oop/ders7(destruct-construct).php",
+		"/C/Users/ANIL/Desktop/oop/ders6(protected-extends).php",
+		"/C/Users/ANIL/Desktop/oop/ders5(private).php",
+		"/C/Users/ANIL/Desktop/oop/ders4(this2).php",
+		"/C/Users/ANIL/Desktop/oop/ders3(this).php",
+		"/C/Users/ANIL/Desktop/oop/der2.php",
+		"/C/Users/ANIL/Desktop/oop/ders1.php",
+		"/C/xampp/htdocs/kod/kod.php",
+		"/C/xampp/htdocs/iki.php",
+		"/C/xampp/htdocs/bir.php",
+		"/C/Users/ANIL/Desktop/class_kutuphanesi.php",
+		"/C/xampp/htdocs/ders3(this).php",
+		"/C/Users/ANIL/Desktop/ders4(this2).php",
+		"/C/Users/ANIL/Desktop/der2.php",
+		"/C/Users/ANIL/Desktop/ders1.php",
+		"/C/Users/ANIL/Desktop/oop.php",
+		"/C/Users/ANIL/Desktop/oop/class_kutuphanesi.php",
+		"/C/Users/ANIL/Desktop/oturumac.php",
+		"/C/xampp/htdocs/oop/class_kutuphanesi.php",
+		"/C/xampp/htdocs/oop/index.php",
+		"/C/xampp/htdocs/mesajgonder.php",
+		"/C/xampp/htdocs/oop/oturumac.php",
+		"/C/xampp/htdocs/yoneticiekle.php",
+		"/C/xampp/htdocs/mesajgoster.php",
+		"/C/xampp/htdocs/duyurusayfa.php",
+		"/C/xampp/htdocs/duyuru.php",
+		"/C/xampp/htdocs/oturumac.php",
+		"/C/xampp/htdocs/ogretmenekle.php",
+		"/C/xampp/htdocs/ogrenciekle.php",
+		"/C/xampp/htdocs/ogrencianasayfa.php",
+		"/C/xampp/htdocs/yoneticianasayfa.php",
+		"/C/xampp/htdocs/yoneticiyap.php",
+		"/C/xampp/htdocs/mesajson.php",
+		"/C/xampp/htdocs/oturumkapat.php",
+		"/C/xampp/htdocs/ogretmenanasayfa.php",
+		"/C/Users/ANIL/Desktop/klasörler/emlak sit. dosyaları/indeks2.php",
+		"/C/Users/ANIL/Desktop/klasörler/emlak sit. dosyaları/uyelievgosterimi.php",
+		"/C/Users/ANIL/Desktop/klasörler/emlak sit. dosyaları/ilankaydet.php",
+		"/C/Users/ANIL/Desktop/klasörler/emlak sit. dosyaları/ilanver.php",
+		"/C/xampp/htdocs/ogrencieklemysql.php",
+		"/C/xampp/htdocs/yonetici.php",
+		"/C/Users/ANIL/Desktop/oturumukapat.php",
+		"/C/Users/ANIL/Desktop/oturumkontrol.php",
+		"/C/Users/ANIL/Desktop/klasörler/emlak sit. dosyaları/index.php",
+		"/C/Users/ANIL/Desktop/klasörler/emlak sit. dosyaları/profil.php",
+		"/C/Users/ANIL/Desktop/klasörler/emlak sit. dosyaları/oturumukapat2.php",
+		"/C/Users/ANIL/Desktop/klasörler/emlak sit. dosyaları/oturumukapat.php",
+		"/C/Users/ANIL/Desktop/klasörler/emlak sit. dosyaları/oturumac.php",
+		"/C/Users/ANIL/Desktop/klasörler/emlak sit. dosyaları/a.php",
+		"/C/Users/ANIL/Desktop/klasörler/emlak sit. dosyaları/adminoturumac.php",
+		"/C/Users/ANIL/Desktop/klasörler/emlak sit. dosyaları/ilaniver.php",
+		"/C/xampp/htdocs/ogretmenanasayfa.PHP",
+		"/C/Users/ANIL/Desktop/pdo/giris.php",
+		"/C/xampp/htdocs/ogretmenanasayfa",
+		"/C/Users/ANIL/Desktop/pdo/oturumac.php",
+		"/C/Users/ANIL/Desktop/pdo/vtbaglan.php",
+		"/C/xampp/htdocs/goster.php",
+		"/C/xampp/htdocs/giris.php",
+		"/C/xampp/htdocs/gitis.php",
+		"/C/Users/ANIL/Desktop/klasörler/emlak sit. dosyaları/vtbaglan.php",
+		"/C/Users/ANIL/Desktop/Yeni klasör/index.html",
+		"/C/Users/ANIL/Desktop/deneme/silme.php",
+		"/C/Users/ANIL/Desktop/deneme5/silme.php",
+		"/C/Users/ANIL/Desktop/deneme/index.php"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"W",
+			"<?php\n/**\n * Created by PhpStorm.\n * User: ANIL\n * Date: 17.8.2017\n * Time: 19:18\n */\n\nclass user\n{\n public function get() {\n\n     return [\"user\"=>\"admin\"];\n\n }\n\n\n//burada veritabanı  işlemlerimizi yapıyoruz\n}",
+			"parent",
+			"$ev_id",
+			"ogretmen_adi",
+			"{\n",
+			"ogrenci_adi",
+			"ogretmen_adi",
+			"ogretmen",
+			"ogrenci",
+			"ogrenci_adi",
+			"ogrenci",
+			"yonetici_id",
+			"\t\n",
+			"alert",
+			"echo",
+			"alert",
+			"queryogrenci",
+			"\">",
+			"=)(",
+			"iki\n",
+			">\n",
+			"html"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"ikii"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "deneme.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 334.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

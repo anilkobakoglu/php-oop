@@ -1,0 +1,15 @@
+{
+    "name": "ako/pack",
+    "description": "try for tutorial",
+    "license": "MIT",
+    "require": {},
+    "autoload":{
+
+        "psr-4":{
+
+            "app\\":"application",
+            "system\\":"system/"
+        }
+
+    }
+}
